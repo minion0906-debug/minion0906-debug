@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Joana Cristovao
+  👋 Hi, I'm Minion906
 </h1>
 
 <h3 align="center">
