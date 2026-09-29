@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joanacristovao8511-debug&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=minion0906-debug&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
@@ -121,11 +121,11 @@ I build:
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=minion0906-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacristovao8511-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion0906-debug&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,7 +137,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacristov
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=joanacristovao8511-debug&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hide_border=true"
 />
 
 </p>
@@ -149,7 +149,7 @@ src="https://streak-stats.demolab.com?user=joanacristovao8511-debug&theme=tokyon
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joanacristovao8511-debug&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minion0906-debug&theme=tokyo-night"/>
 
 </p>
 
@@ -161,7 +161,7 @@ src="https://streak-stats.demolab.com?user=joanacristovao8511-debug&theme=tokyon
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joanacristovao8511-debug&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=minion0906-debug&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -173,7 +173,7 @@ src="https://streak-stats.demolab.com?user=joanacristovao8511-debug&theme=tokyon
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/joanacristovao8511-debug/joanacristovao8511-debug/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/minion0906-debug/minion0906-debug/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
