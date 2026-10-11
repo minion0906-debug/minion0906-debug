@@ -16,7 +16,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: joanacristovao8511-debug
+          github_user_name: minion0906-debug
           outputs: |
             dist/github-contribution-grid-snake.svg
 
