@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Minion906
+  👋 Hi, I'm Minion
 </h1>
 
 <h3 align="center">
