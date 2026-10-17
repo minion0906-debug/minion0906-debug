@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minion0906-debug&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Active-007EC6?style=flat&logo=github" alt="Profile views badge" />
 </p>
 
 
