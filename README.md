@@ -117,15 +117,9 @@ I build:
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion0906-debug&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img 
-src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hide_border=true"
-/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion0906-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img align="center" src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 
