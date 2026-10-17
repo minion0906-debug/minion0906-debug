@@ -146,26 +146,24 @@ src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hid
 
 # 📈 Contribution Activity
 
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minion0906-debug&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api?username=minion0906-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub contribution stats"/>
 
 </p>
 
 
-
-
-# 🏆 GitHub Achievements
-
+# 🏆 GitHub Highlights
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=minion0906-debug&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://img.shields.io/badge/Repositories-Active-181717?style=for-the-badge&logo=github" alt="Active repositories badge"/>
+
+<img src="https://img.shields.io/badge/Commits-Tracked-2F81F7?style=for-the-badge&logo=git" alt="Commits tracked badge"/>
+
+<img src="https://img.shields.io/badge/Collaboration-Open-34D058?style=for-the-badge&logo=github" alt="Open collaboration badge"/>
 
 </p>
-
-
 
 
 # 🐍 Contribution Snake
