@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=minion0906-debug&left_color=007EC6&right_color=2E9CFF" alt="Profile views count" />
+  <img src="https://img.shields.io/badge/Profile%20Views-200%2B-007EC6?style=flat&logo=github" alt="Profile views count" />
 </p>
 
 
