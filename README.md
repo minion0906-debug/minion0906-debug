@@ -121,10 +121,11 @@ I build:
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion0906-debug&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="180"
-src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=minion0906-debug&theme=tokyonight&hide_border=true
+hide_border=true"
 />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion0906-debug&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
