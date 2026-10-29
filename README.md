@@ -127,7 +127,7 @@ I build:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minion0906-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub contribution stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=minion0906-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub contribution stats"/>
 
 </p>
 
